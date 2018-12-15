@@ -1,1 +1,2 @@
-*.ini text
+*.ini text diff
+*.pdn binary
